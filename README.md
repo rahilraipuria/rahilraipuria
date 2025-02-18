@@ -14,7 +14,7 @@ I'm a passionate developer who enjoys creating efficient and impactful software 
 - **Languages**: C, C++, JavaScript  
 - **Frontend**: React, HTML, CSS, TailwindCSS  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Database**: MySQL, MongoDB  
 - **Tools & Technologies**: Git, GitHub  
 
 ---
